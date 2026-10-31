@@ -229,6 +229,6 @@ To deploy your own instance:
 
 ## Author
 
-**Fahim** — [@codeby-fahim](https://github.com/codeby-fahim)
+**Md Rakibul Islam Fahim** — [@codeby-fahim](https://github.com/codeby-fahim)
 
 Built as part of the Programming Hero MERN journey. If you find this project useful, consider giving it a star.
